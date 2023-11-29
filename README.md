@@ -6,8 +6,9 @@
 
 ## 使用方式
 
-1. 下载代码仓库
-2. 运行 docker compose up
+1. 克隆代码仓库到本地: `git clone https://github.com/glwhappen/learn-docker-nginx.git`
+2. 进入目录 `cd learn-docker-nginx`
+3. 运行 `docker compose up`
 3. 浏览器访问: http://localhost:88
 
 ## 目录介绍
