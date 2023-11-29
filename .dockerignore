@@ -1,0 +1,17 @@
+# 忽略 node_modules 文件夹
+node_modules
+
+# 忽略 Git 目录
+.git
+
+# 忽略环境变量文件
+.env
+
+# 如果你有其他特定的本地文件或文件夹也应该被忽略
+# 比如编辑器配置文件、日志文件等，也可以在这里添加
+*.log
+.DS_Store
+
+# 忽略 Dockerfile 本身和 docker-compose 文件（如果有）
+Dockerfile
+docker-compose.yml
